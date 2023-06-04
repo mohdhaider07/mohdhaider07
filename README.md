@@ -8,7 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/mohd-haider-96a82620b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://haider.vercel.app/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 
 
  </p>
@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mohd Haider | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
