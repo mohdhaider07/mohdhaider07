@@ -7,13 +7,8 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/mohd-haider-96a82620b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-
 <a href="https://haider.vercel.app/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-
-
  </p>
-
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mohd Haider | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -24,8 +19,9 @@
 
  
  <h5 align="center">
-   <i>Why did the Docker container refuse to talk to the Kubernetes pod?</i>
-   <i>⚡️Because it said, "I don't trust pods that don't spell Kubernetes with a capital 'K'!⚡️</i>
+   <i>Why did the Docker container break up with the Kubernetes pod?</i>
+   <br/>
+   <i>⚡️Because it couldn't handle the pod's constant need for "commitment" and "deployment"!⚡️</i>
   </h5>
  
  
