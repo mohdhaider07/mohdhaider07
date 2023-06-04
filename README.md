@@ -33,7 +33,7 @@
 
  - 🥀 Learning Microservices
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>with Typescript, Next and 69 others.</i>
    
  - I do fullstack and a bit of everything :heart:
  
