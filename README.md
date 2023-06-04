@@ -37,7 +37,7 @@
    
  - I do fullstack and a bit of everything :heart:
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" alt='LinkedIn' >](https://www.linkedin.com/in/mohd-haider-96a82620b/)
+ - 💬 Connect? lets get social 👉🏼[<img height='30' src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" alt='LinkedIn' >](https://www.linkedin.com/in/mohd-haider-96a82620b/)
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
