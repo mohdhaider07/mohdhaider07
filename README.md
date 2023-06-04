@@ -47,7 +47,7 @@
 
 <p align="center" >
 <a href="https://github.com/mohdhaider07/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mohdhaider07&show_icons=true&theme=tokyonight"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=mohdhaider07&show_icons=true&theme=radical"/>
   </a>
 
 </p>
