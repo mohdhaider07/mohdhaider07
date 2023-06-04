@@ -21,14 +21,11 @@
 
 
 
-<p align="center">
-  
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
+
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>Why did the Docker container refuse to talk to the Kubernetes pod?</i>
+   <i>⚡️Because it said, "I don't trust pods that don't spell Kubernetes with a capital 'K'!⚡️</i>
   </h5>
  
  
